@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Anna Yanchenko
+email: ayanchenko17@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal webpage for Anna Yanchenko
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://aky4wn.github.io/" # the base hostname & protocol for your site
+github_username:  aky4wn
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""

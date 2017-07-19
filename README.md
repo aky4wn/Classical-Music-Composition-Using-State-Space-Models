@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Theme from (https://github.com/svmiller/steve-ngvb-jekyll-template)
 
-You can use the [editor on GitHub](https://github.com/aky4wn/Classical-Music-Composition-Using-Hidden-Markov-Models/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Steve's No-Good-Very-Bad Jekyll Theme
+=====================================
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is my custom Jekyll theme, which is basically [Joel Glovier](http://joelglovier.com/)'s `jekyll-new` theme smashed with [Alex King](http://www.alexking.org)'s [Favepersonal](https://crowdfavorite.com/favepersonal/) theme for Wordpress. I used Favepersonal for my Wordpress site before abandoning it. You can see my site at [svmiller.github.io](http://svmiller.github.io).
 
-```markdown
-Syntax highlighted code block
+Much of what is contained in here is derivative of those two works. That said, do observe the `embedpdf.html` and `image.html` files in the `_includes` directory. `embedpdf.html` uses Google Docs to allow for embedding of PDF files hosted on Dropbox. `image.html` provides fancier images than what is standard for Markdown. An example use of `embedpdf.html` can be observed in the `cv.md` file. An example use of `image.html` can be observed in the `about.md` file.
 
-# Header 1
-## Header 2
-### Header 3
+I use data-driven navigation, which you can see in the `menu.yml` file in the `_data` directory. There's also a `nav.html` file in the `_includes` directory with modified `header.html`.
 
-- Bulleted
-- List
+Mobile support is clearly functional, though some white-spacing could be improved. Feel free to offer improvements if you'd like.
 
-1. Numbered
-2. List
+`css` and `_sass` directories also functional, if a bit cluttered. Do observe new colors I created for `$clemson-orange` and `$clemson-purple` in `css/main.scss`.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aky4wn/Classical-Music-Composition-Using-Hidden-Markov-Models/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to contact me at svmille@clemson.edu. Send along some cheers too if you find it useful.
