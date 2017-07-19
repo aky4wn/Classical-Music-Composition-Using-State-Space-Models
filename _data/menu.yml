@@ -1,17 +1,17 @@
 - title: "About"
-  href: "/about/"
+  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/about/"
   
 - title: "Music Theory"
-  href: "/theory/"  
+  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/theory/"  
   
 - title: "Generated Pieces"
-  href: "/pieces/"
+  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/pieces/"
 
 - title: "Sheet Music"
-  href: "/music/"
+  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/music/"
   
 - title: "Code"
-  href: "/code/"
+  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/code/"
 
 #- title: "CV"
 #  href: "/cv/"
