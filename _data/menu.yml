@@ -1,11 +1,17 @@
 - title: "About"
   href: "/about/"
+  
+- title: "Music Theory"
+  href: "/theory/"  
+  
+- title: "Generated Pieces"
+  href: "/pieces/"
 
-- title: "Research"
-  href: "/research/"
-
-- title: "Projects"
-  href: "/projects/"
+- title: "Sheet Music"
+  href: "/music/"
+  
+- title: "Code"
+  href: "/code/"
 
 #- title: "CV"
 #  href: "/cv/"
