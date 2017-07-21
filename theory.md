@@ -34,6 +34,10 @@ Play Interval | See Interval
 [Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) | [Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) 
 [Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) | [Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)
 
+![alt text](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models//music_theory/unison.pdf "Logo Title Text 1")
+
+
+
 ### Descending Melodic Intervals
 Play Interval | See Interval
 ------------ | -------------
