@@ -12,7 +12,7 @@ The grand staff is used for most piano music and is composed of the lower bass c
 
 <embed src="https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/theory/images/bass_clef.pdf" width="50" height="75" type='application/pdf'>
 
-{% include image.html url="/images/treble_clef.pdf" caption="Treble Clef" width=30 align="left" %}
+{% include image.html url="/images/treble_clef.png" caption="Treble Clef" width=30 align="left" %}
 
 {% include image.html url="/images/bass_clef.pdf" caption="Bass Clef" width=30 align="right" %}
 
