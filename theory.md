@@ -6,51 +6,33 @@ permalink: /theory/
 For this work, we consider a high-level view of several aspects of music theory.  Laitz (2003) and Gauldin (2004) provide in-depth treatments of many aspects of musical theory.
 
 # Grand Staff and Note Pitches
-The grand staff is used for most piano music and is composed of the lower bass clef part (usually played with the left hand when playing the piano) and the higher treble clef part (usually played with the right hand).  Each subsequent key on a piano corresponds to a half step in note pitch.  The white keys correspond to natural note, while the black keys raise or lower the neighboring white key pitches by a half step, resulting in a sharp or flat note.  
-
-[Treble Clef]({{ site.url }}/music_theory/treble_clef.pdf)
-[Bass Clef]({{ site.url }}/music_theory/bass_clef.pdf)
+The grand staff is used for most piano music and is composed of the lower [Bass Clef]({{ site.url }}/music_theory/bass_clef.pdf) part (usually played with the left hand when playing the piano) and the higher [Treble Clef]({{ site.url }}/music_theory/treble_clef.pdf) part (usually played with the right hand).  Each subsequent key on a piano corresponds to a half step in note pitch.  The white keys correspond to natural note, while the black keys raise or lower the neighboring white key pitches by a half step, resulting in a sharp or flat note.  
 
 
 The numeric markings next to the clef in the grand staff indicate the time signature of the piece.  The top number indicates how many beats per measure there are in the piece and the bottom note indicates which note gets the beat.  In this example, the time signature is "four-four", meaning that there are four beats per measure and the quarter note gets the beat.
 
-The key signature indicates the key that the piece is to be played in. For this example, there are no sharps or flats in the key signature, so the key of this example is C-Major.  There can be both major and minor keys.  This example contains four octaves of the C-Major scale, where each note is one quarter note in duration.  The note pitch highlighted in red corresponds to middle C. 
-
-[Grand Staff and Note Pitches]({{ site.url }}/music_theory/grand_staff_notes.png)
-
-[Grand Staff Example]({{ site.url }}/music_theory/grand_staff_notes.mp3)
+The key signature indicates the key that the piece is to be played in. For this example, there are no sharps or flats in the key signature, so the key of this example is C-Major.  There can be both major and minor keys.  This [example]({{ site.url }}/music_theory/grand_staff_notes.mp3) contains four octaves of the C-Major scale, where each note is one quarter note in duration.  The [note pitch]({{ site.url }}/music_theory/grand_staff_notes.png) highlighted in red corresponds to middle C. 
 
 
 # Intervals
 There are two types of intervals that occur in music, harmonic intervals where two or more notes are played at the same time, and melodic intervals, where two or more notes are played sequentially.  Most melodic and harmonic intervals occuring in the Romantic era were smaller than an octave.  Example ascending and descending simple melodic intervals are below, where each interval increases by a half step for the ascending intervals and decreases by a half step for the descending intervals. 
 
 ### Ascending Melodic Intervals
-- [Perfect Unison]({{ site.url }}/music_theory/unison.mp3) [Perfect Unison Interval]({{ site.url }}/music_theory/unison.pdf)
-
-- [Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) 
-{% include image.html url="/images/a_minor2nd.pdf" caption="Minor Second Ascending Interval" width=300 align="right" %}
-- [Major Second]({{ site.url }}/music_theory/a_major2nd.mp3)
-{% include image.html url="/images/a_major2nd.pdf" caption="Major Second Ascending Interval" width=300 align="right" %}
-- [Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3)
-{% include image.html url="/images/a_minor3rd.pdf" caption="Minor Third Ascending Interval" width=300 align="right" %}
-- [Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) 
-{% include image.html url="/images/a_major3rd.pdf" caption="Major Third Ascending Interval" width=300 align="right" %}
-- [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3) 
-{% include image.html url="/images/a_perfect4th.pdf" caption="Perfect Fourth Ascending Interval" width=300 align="right" %}
-- [Tritone]({{ site.url }}/music_theory/a_tritone.mp3) 
-{% include image.html url="/images/a_tritone.pdf" caption="Triton Ascending Interval" width=300 align="right" %}
-- [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3) 
-{% include image.html url="/images/a_perfect5th.pdf" caption="Perfect Fifth Ascending Interval" width=300 align="right" %}
-- [Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3) 
-{% include image.html url="/images/a_minor6th.pdf" caption="Minor Sixth Ascending Interval" width=300 align="right" %}
-- [Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3) 
-{% include image.html url="/images/a_major6th.pdf" caption="Major Sixth Ascending Interval" width=300 align="right" %}
-- [Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3) 
-{% include image.html url="/images/a_minor7th.pdf" caption="Minor Seventh Ascending Interval" width=300 align="right" %}
-- [Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) 
-{% include image.html url="/images/a_major7th.pdf" caption="Major Seventh Ascending Interval" width=300 align="right" %}
-- [Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) 
-{% include image.html url="/images/a_octave.pdf" caption="Perfect Octave Ascending Interval" width=300 align="right" %}
+Play Interval | See Interval
+------------ | -------------
+[Perfect Unison]({{ site.url }}/music_theory/unison.mp3) | [Perfect Unison]({{ site.url }}/music_theory/unison.pdf)
+[Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) | [Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
+[Major Second]({{ site.url }}/music_theory/a_major2nd.mp3) | [Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)
+[Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3) | [Minor Third]({{ site.url }}/music_theory/a_minor3rd.pdf)
+[Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) | [Major Third]({{ site.url }}/music_theory/a_major3rd.pdf) 
+[Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3) | [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.pdf) 
+[Tritone]({{ site.url }}/music_theory/a_tritone.mp3) | [Tritone]({{ site.url }}/music_theory/a_tritone.pdf) 
+[Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3) | [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.pdf) 
+[Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3) | [Minor Sixth]({{ site.url }}/music_theory/a_minor6th.pdf) 
+[Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3) | [Major Sixth]({{ site.url }}/music_theory/a_major6th.pdf) 
+[Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3) | [Minor Seventh]({{ site.url }}/music_theory/a_minor7th.pdf) 
+[Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) | [Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) 
+[Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) | [Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)
 
 ### Descending Melodic Intervals
 - [Minor Second]({{ site.url }}/music_theory/d_minor2nd.mp3) {% include image.html url="/images/d_minor2nd.pdf" caption="Minor Second Descending Interval" width=300 align="right" %}
