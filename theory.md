@@ -8,9 +8,8 @@ For this work, we consider a high-level view of several aspects of music theory.
 # Grand Staff and Note Pitches
 The grand staff is used for most piano music and is composed of the lower bass clef part (usually played with the left hand when playing the piano) and the higher treble clef part (usually played with the right hand).  Each subsequent key on a piano corresponds to a half step in note pitch.  The white keys correspond to natural note, while the black keys raise or lower the neighboring white key pitches by a half step, resulting in a sharp or flat note.  
 
-{% include image.html url="/images/treble_clef.png" caption="Treble Clef" width=30 align="right" %}
-
-{% include image.html url="/images/bass_clef.pdf" caption="Bass Clef" width=30 align="right" %}
+[Treble Clef]({{ site.url }}/images/treble_clef.pdf)
+[Bass Clef]({{ site.url }}/images/bass_clef.pdf)
 
 
 The numeric markings next to the clef in the grand staff indicate the time signature of the piece.  The top number indicates how many beats per measure there are in the piece and the bottom note indicates which note gets the beat.  In this example, the time signature is "four-four", meaning that there are four beats per measure and the quarter note gets the beat.
