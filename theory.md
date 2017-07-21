@@ -12,6 +12,8 @@ The grand staff is used for most piano music and is composed of the lower bass c
 \includegraphics[width=8in]{/images/treble_clef.pdf} <br>
 \end{center}
 
+<img src="/images/treble_clef.pdf" class="img-responsive" alt=""> </div>
+
 {% include image.html url="/images/treble_clef.pdf" caption="Treble Clef" width=30 align="left" %}
 
 {% include image.html url="/images/bass_clef.pdf" caption="Bass Clef" width=30 align="right" %}
