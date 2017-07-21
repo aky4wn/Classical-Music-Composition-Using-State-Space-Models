@@ -13,13 +13,16 @@ The grand staff is used for most piano music and is composed of the lower bass c
 \end{center}
 
 {% include image.html url="/images/treble_clef.pdf" caption="Treble Clef" width=30 align="left" %}
+
 {% include image.html url="/images/bass_clef.pdf" caption="Bass Clef" width=30 align="right" %}
 
 
 The numeric markings next to the clef in the grand staff indicate the time signature of the piece.  The top number indicates how many beats per measure there are in the piece and the bottom note indicates which note gets the beat.  In this example, the time signature is "four-four", meaning that there are four beats per measure and the quarter note gets the beat.
 
 The key signature indicates the key that the piece is to be played in. For this example, there are no sharps or flats in the key signature, so the key of this example is C-Major.  There can be both major and minor keys.  This example contains four octaves of the C-Major scale, where each note is one quarter note in duration.  The note pitch highlighted in red corresponds to middle C. 
+
 {% include image.html url="/images/grand_staff_notes.png" caption="Grand Staff and Note Pitches" width=300 align="right" %}
+
 [Grand Staff Example]({{ site.url }}/music_theory/grand_staff_notes.mp3)
 
 
