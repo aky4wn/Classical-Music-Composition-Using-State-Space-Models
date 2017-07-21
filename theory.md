@@ -22,40 +22,66 @@ There are two types of intervals that occur in music, harmonic intervals where t
 
 ### Ascending Melodic Intervals
 [Perfect Unison]({{ site.url }}/music_theory/unison.mp3) ![Perfect Unison]({{ site.url }}/music_theory/unison.pdf)
+
 [Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) ![Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
+
 [Major Second]({{ site.url }}/music_theory/a_major2nd.mp3) ![Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)
+
 [Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3) ![Minor Third]({{ site.url }}/music_theory/a_minor3rd.pdf)
+
 [Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) ![Major Third]({{ site.url }}/music_theory/a_major3rd.pdf) 
+
 [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3) ![Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.pdf) 
+
 [Tritone]({{ site.url }}/music_theory/a_tritone.mp3) ![Tritone]({{ site.url }}/music_theory/a_tritone.pdf) 
+
 [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3) ![Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.pdf) 
+
 [Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3) ![Minor Sixth]({{ site.url }}/music_theory/a_minor6th.pdf) 
+
 [Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3) ![Major Sixth]({{ site.url }}/music_theory/a_major6th.pdf) 
+
 [Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3) ![Minor Seventh]({{ site.url }}/music_theory/a_minor7th.pdf) 
+
 [Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) ![Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) 
+
 [Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) ![Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)
 
 
 ### Descending Melodic Intervals
 [Minor Second]({{ site.url }}/music_theory/d_minor2nd.mp3) ![Minor Second]({{ site.url }}/music_theory/d_minor2nd.pdf)
+
 [Major Second]({{ site.url }}/music_theory/d_major2nd.mp3) ![Major Second]({{ site.url }}/music_theory/d_major2nd.pdf) 
+
 [Minor Third]({{ site.url }}/music_theory/d_minor3rd.mp3) ![Minor Third]({{ site.url }}/music_theory/d_minor3rd.pdf)
+
 [Major Third]({{ site.url }}/music_theory/d_major3rd.mp3) ![Major Third]({{ site.url }}/music_theory/d_major3rd.pdf) 
+
 [Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.mp3) ![Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.pdf) 
+
 [Tritone]({{ site.url }}/music_theory/d_tritone.mp3) ![Tritone]({{ site.url }}/music_theory/d_tritone.pdf) 
-[Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.mp3) ![Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.pdf) 
+
+[Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.mp3) ![Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.pdf)
+
 [Minor Sixth]({{ site.url }}/music_theory/d_minor6th.mp3) ![Minor Sixth]({{ site.url }}/music_theory/d_minor6th.pdf)
+
 [Major Sixth]({{ site.url }}/music_theory/d_major6th.mp3) ![Major Sixth]({{ site.url }}/music_theory/d_major6th.pdf) 
+
 [Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3) ![Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3)
+
 [Major Seventh]({{ site.url }}/music_theory/d_major7th.mp3) ![Major Seventh]({{ site.url }}/music_theory/d_major7th.pdf) 
+
 [Perfect Octave]({{ site.url }}/music_theory/d_octave.mp3) ![Perfect Octave]({{ site.url }}/music_theory/d_octave.pdf)
 
 
 # Chords
 A chord is a combination of three or more different pitches, and the predominant chords occurring in the Romantic era were the triad and the seventh chord. The triad is composed of a root pitch and the third and fifth above the root, while a seventh chord is the root, third, fifth and seventh. Chords can be closed or open depending on the spacing between pitches in the higher and lower registers.
-- [Major Triad]({{ site.url }}/music_theory/major_triad.mp3) ![Major Triad]({{ site.url }}/music_theory/major_triad.pdf)
-- [Minor Triad]({{ site.url }}/music_theory/minor_triad.mp3) ![Minor Triad]({{ site.url }}/music_theory/minor_triad.pdf)
-- [Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.mp3) ![Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.pdf)
+
+ [Major Triad]({{ site.url }}/music_theory/major_triad.mp3) ![Major Triad]({{ site.url }}/music_theory/major_triad.pdf)
+
+[Minor Triad]({{ site.url }}/music_theory/minor_triad.mp3) ![Minor Triad]({{ site.url }}/music_theory/minor_triad.pdf)
+
+[Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.mp3) ![Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.pdf)
 
 
 # Dissonance and Consonance
@@ -67,7 +93,7 @@ in that they are stable intervals that do not need to resolve to a more stable p
 
 
 # Motifs
-A motif is a melodic or rhythmic unit that reappears throughout a piece and is shorter than a theme.  The combination of phrases and motifs forms a melody in a piece.  A motif can reappear in its original form or at different pitches or with different intervals throughout a piece.  An example [motif]({{ site.url }}/music_theory/muss_motif.mp3) is the opening [two bars]({{ site.url }}/music_theory/muss_motif.pdf) of Mussorgsky's Pictures at an Exhibition - Gnomus (Krueger (2016)).
+A motif is a melodic or rhythmic unit that reappears throughout a piece and is shorter than a theme.  The combination of phrases and motifs forms a melody in a piece.  A motif can reappear in its original form or at different pitches or with different intervals throughout a piece.  An example [motif]({{ site.url }}/music_theory/muss_motif.mp3) is the opening two bars of Mussorgsky's Pictures at an Exhibition - Gnomus (Krueger (2016)).
 
 ![Mussorgsky's Pictures at an Exhibition - Gnomus]({{ site.url }}/music_theory/muss_motif.pdf)
 
