@@ -18,9 +18,8 @@ Sheet music for several HMM generated pieces.  Each name is the original piece t
 
 [Pachelbel's Canon - TVAR(11)]({{ site.url }}/Sheet Music/we-three-kings_layered.pdf)
 
-- Other Generated Pieces (trained on pieces built on perfect intervals)
-We find that HMMs generated more consonant pieces when trained on harmonically simple original pieces, built on perfect intervals, such as the perfect fourth or perfect fifth intervals.  Below are two additional examples of HMM generated pieces trained on original pieces built on perfect intervals. 
+Other Generated Pieces - We find that HMMs generated more consonant pieces when trained on harmonically simple original pieces, built on perfect intervals, such as the perfect fourth or perfect fifth intervals.  Below are two additional examples of HMM generated pieces trained on original pieces built on perfect intervals. 
 
 [Pachelbel's Canon - Layered HMM]({{ site.url }}/Sheet Music/Pachelbel_layered.pdf)
 
-[Holst's Theme from Jupiter) - Layered HMM]({{ site.url }}/Sheet Music/Jupiter_layered.pdf)
+[Holst's Theme from Jupiter - Layered HMM]({{ site.url }}/Sheet Music/Jupiter_layered.pdf)
