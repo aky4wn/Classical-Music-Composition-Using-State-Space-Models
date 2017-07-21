@@ -8,6 +8,10 @@ For this work, we consider a high-level view of several aspects of music theory.
 # Grand Staff and Note Pitches
 The grand staff is used for most piano music and is composed of the lower bass clef part (usually played with the left hand when playing the piano) and the higher treble clef part (usually played with the right hand).  Each subsequent key on a piano corresponds to a half step in note pitch.  The white keys correspond to natural note, while the black keys raise or lower the neighboring white key pitches by a half step, resulting in a sharp or flat note.  
 
+\begin{center} <br>
+\includegraphics[width=8in]{/images/treble_clef.pdf} <br>
+\end{center}
+
 {% include image.html url="/images/treble_clef.pdf" caption="Treble Clef" width=30 align="left" %}
 {% include image.html url="/images/bass_clef.pdf" caption="Bass Clef" width=30 align="right" %}
 
