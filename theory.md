@@ -16,13 +16,7 @@ The key signature indicates the key that the piece is to be played in. For this 
 # Intervals
 There are two types of intervals that occur in music, harmonic intervals where two or more notes are played at the same time, and melodic intervals, where two or more notes are played sequentially.  Most melodic and harmonic intervals occuring in the Romantic era were smaller than an octave.  Example ascending and descending simple melodic intervals are below, where each interval increases by a half step for the ascending intervals and decreases by a half step for the descending intervals. 
 
-Play  Interval | Sheet Music 
---- | --- 
-*Still* | **nicely**
-
-<a href="https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png
-" target="_blank"><img src="https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img src="https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.pdf" alt="alt text" title="Title" />
 
 ### Ascending Melodic Intervals
 | Play  Interval| Sheet Music  |
