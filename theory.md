@@ -17,9 +17,25 @@ The key signature indicates the key that the piece is to be played in. For this 
 There are two types of intervals that occur in music, harmonic intervals where two or more notes are played at the same time, and melodic intervals, where two or more notes are played sequentially.  Most melodic and harmonic intervals occuring in the Romantic era were smaller than an octave.  Example ascending and descending simple melodic intervals are below, where each interval increases by a half step for the ascending intervals and decreases by a half step for the descending intervals. 
 
 ### Ascending Melodic Intervals
-Perfect Unison [Perfect Unison - Play]({{ site.url }}/music_theory/unison.mp3) [Perfect Unison - Sheet Music](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png)
+| Play  Interval         | Sheet Music  |
+| ------------- |-------------| -----|
+| [Perfect Unison]({{ site.url }}/music_theory/unison.mp3)| [Perfect Unison](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png) |
+| [Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3)    |   [Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf) |
+|[Major Second]({{ site.url }}/music_theory/a_major2nd.mp3)    |   [Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)|
+| [Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3)| [Minor Third]({{ site.url }}/music_theory/a_minor3rd.pdf) |
+| [Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) |[Major Third]({{ site.url }}/music_theory/a_major3rd.pdf) |
+| [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3)| [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.pdf) |
+| [Tritone]({{ site.url }}/music_theory/a_tritone.mp3) | [Tritone]({{ site.url }}/music_theory/a_tritone.pdf) |
+| [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3)| [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.pdf) |
+|[Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3)| [Minor Sixth]({{ site.url }}/music_theory/a_minor6th.pdf) |
+| [Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3)| [Major Sixth]({{ site.url }}/music_theory/a_major6th.pdf) |
+|[Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3)| [Minor Seventh]({{ site.url }}/music_theory/a_minor7th.pdf) |
+|[Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3)| [Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) |
+|[Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3)| [Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)|
 
-Minor Second [m2 - Play]({{ site.url }}/music_theory/a_minor2nd.mp3) [m2 - Sheet Music]({{ site.url }}/music_theory/a_minor2nd.pdf)
+Perfect Unison [Perfect Unison]({{ site.url }}/music_theory/unison.mp3) [Perfect Unison](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png)
+
+Minor Second [Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) [Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
 
 [Major Second]({{ site.url }}/music_theory/a_major2nd.mp3) [Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)
 
