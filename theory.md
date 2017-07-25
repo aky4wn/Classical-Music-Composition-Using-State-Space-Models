@@ -8,10 +8,6 @@ For this work, we consider a high-level view of several aspects of music theory.
 # Grand Staff and Note Pitches
 The grand staff is used for most piano music and is composed of the lower [Bass Clef]({{ site.url }}/music_theory/bass_clef.pdf) part (usually played with the left hand when playing the piano) and the higher [Treble Clef]({{ site.url }}/music_theory/treble_clef.pdf) part (usually played with the right hand).  Each subsequent key on a piano corresponds to a half step in note pitch.  The white keys correspond to natural note, while the black keys raise or lower the neighboring white key pitches by a half step, resulting in a sharp or flat note.  
 
-![Bass Clef](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models//music_theory/bass_clef.pdf "Bass Clef")
-
-![Treble Clef](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models//music_theory/treble_clef.pdf "Treble Clef")
-
 The numeric markings next to the clef in the grand staff indicate the time signature of the piece.  The top number indicates how many beats per measure there are in the piece and the bottom note indicates which note gets the beat.  In this example, the time signature is "four-four", meaning that there are four beats per measure and the quarter note gets the beat.
 
 The key signature indicates the key that the piece is to be played in. For this example, there are no sharps or flats in the key signature, so the key of this example is C-Major.  There can be both major and minor keys.  This [example]({{ site.url }}/music_theory/grand_staff_notes.mp3) contains four octaves of the C-Major scale, where each note is one quarter note in duration.  The [note pitch]({{ site.url }}/music_theory/grand_staff_notes.png) highlighted in red corresponds to middle C. 
@@ -21,67 +17,67 @@ The key signature indicates the key that the piece is to be played in. For this 
 There are two types of intervals that occur in music, harmonic intervals where two or more notes are played at the same time, and melodic intervals, where two or more notes are played sequentially.  Most melodic and harmonic intervals occuring in the Romantic era were smaller than an octave.  Example ascending and descending simple melodic intervals are below, where each interval increases by a half step for the ascending intervals and decreases by a half step for the descending intervals. 
 
 ### Ascending Melodic Intervals
-[Perfect Unison]({{ site.url }}/music_theory/unison.mp3) ![Perfect Unison]({{ site.url }}/music_theory/unison.pdf)
+[Perfect Unison]({{ site.url }}/music_theory/unison.mp3) [Perfect Unison]({{ site.url }}/music_theory/unison.pdf)
 
-[Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) ![Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
+[Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) [Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
 
-[Major Second]({{ site.url }}/music_theory/a_major2nd.mp3) ![Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)
+[Major Second]({{ site.url }}/music_theory/a_major2nd.mp3) [Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)
 
-[Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3) ![Minor Third]({{ site.url }}/music_theory/a_minor3rd.pdf)
+[Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3) [Minor Third]({{ site.url }}/music_theory/a_minor3rd.pdf)
 
-[Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) ![Major Third]({{ site.url }}/music_theory/a_major3rd.pdf) 
+[Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) [Major Third]({{ site.url }}/music_theory/a_major3rd.pdf) 
 
-[Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3) ![Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.pdf) 
+[Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3) [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.pdf) 
 
-[Tritone]({{ site.url }}/music_theory/a_tritone.mp3) ![Tritone]({{ site.url }}/music_theory/a_tritone.pdf) 
+[Tritone]({{ site.url }}/music_theory/a_tritone.mp3) [Tritone]({{ site.url }}/music_theory/a_tritone.pdf) 
 
-[Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3) ![Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.pdf) 
+[Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3) [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.pdf) 
 
-[Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3) ![Minor Sixth]({{ site.url }}/music_theory/a_minor6th.pdf) 
+[Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3) [Minor Sixth]({{ site.url }}/music_theory/a_minor6th.pdf) 
 
-[Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3) ![Major Sixth]({{ site.url }}/music_theory/a_major6th.pdf) 
+[Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3) [Major Sixth]({{ site.url }}/music_theory/a_major6th.pdf) 
 
-[Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3) ![Minor Seventh]({{ site.url }}/music_theory/a_minor7th.pdf) 
+[Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3) [Minor Seventh]({{ site.url }}/music_theory/a_minor7th.pdf) 
 
-[Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) ![Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) 
+[Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) [Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) 
 
-[Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) ![Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)
+[Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) [Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)
 
 
 ### Descending Melodic Intervals
-[Minor Second]({{ site.url }}/music_theory/d_minor2nd.mp3) ![Minor Second]({{ site.url }}/music_theory/d_minor2nd.pdf)
+[Minor Second]({{ site.url }}/music_theory/d_minor2nd.mp3) [Minor Second]({{ site.url }}/music_theory/d_minor2nd.pdf)
 
-[Major Second]({{ site.url }}/music_theory/d_major2nd.mp3) ![Major Second]({{ site.url }}/music_theory/d_major2nd.pdf) 
+[Major Second]({{ site.url }}/music_theory/d_major2nd.mp3) [Major Second]({{ site.url }}/music_theory/d_major2nd.pdf) 
 
-[Minor Third]({{ site.url }}/music_theory/d_minor3rd.mp3) ![Minor Third]({{ site.url }}/music_theory/d_minor3rd.pdf)
+[Minor Third]({{ site.url }}/music_theory/d_minor3rd.mp3) [Minor Third]({{ site.url }}/music_theory/d_minor3rd.pdf)
 
-[Major Third]({{ site.url }}/music_theory/d_major3rd.mp3) ![Major Third]({{ site.url }}/music_theory/d_major3rd.pdf) 
+[Major Third]({{ site.url }}/music_theory/d_major3rd.mp3) [Major Third]({{ site.url }}/music_theory/d_major3rd.pdf) 
 
-[Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.mp3) ![Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.pdf) 
+[Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.mp3) [Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.pdf) 
 
-[Tritone]({{ site.url }}/music_theory/d_tritone.mp3) ![Tritone]({{ site.url }}/music_theory/d_tritone.pdf) 
+[Tritone]({{ site.url }}/music_theory/d_tritone.mp3) [Tritone]({{ site.url }}/music_theory/d_tritone.pdf) 
 
-[Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.mp3) ![Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.pdf)
+[Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.mp3) [Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.pdf)
 
-[Minor Sixth]({{ site.url }}/music_theory/d_minor6th.mp3) ![Minor Sixth]({{ site.url }}/music_theory/d_minor6th.pdf)
+[Minor Sixth]({{ site.url }}/music_theory/d_minor6th.mp3) [Minor Sixth]({{ site.url }}/music_theory/d_minor6th.pdf)
 
-[Major Sixth]({{ site.url }}/music_theory/d_major6th.mp3) ![Major Sixth]({{ site.url }}/music_theory/d_major6th.pdf) 
+[Major Sixth]({{ site.url }}/music_theory/d_major6th.mp3) [Major Sixth]({{ site.url }}/music_theory/d_major6th.pdf) 
 
-[Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3) ![Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3)
+[Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3) [Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3)
 
-[Major Seventh]({{ site.url }}/music_theory/d_major7th.mp3) ![Major Seventh]({{ site.url }}/music_theory/d_major7th.pdf) 
+[Major Seventh]({{ site.url }}/music_theory/d_major7th.mp3) [Major Seventh]({{ site.url }}/music_theory/d_major7th.pdf) 
 
-[Perfect Octave]({{ site.url }}/music_theory/d_octave.mp3) ![Perfect Octave]({{ site.url }}/music_theory/d_octave.pdf)
+[Perfect Octave]({{ site.url }}/music_theory/d_octave.mp3) [Perfect Octave]({{ site.url }}/music_theory/d_octave.pdf)
 
 
 # Chords
 A chord is a combination of three or more different pitches, and the predominant chords occurring in the Romantic era were the triad and the seventh chord. The triad is composed of a root pitch and the third and fifth above the root, while a seventh chord is the root, third, fifth and seventh. Chords can be closed or open depending on the spacing between pitches in the higher and lower registers.
 
- [Major Triad]({{ site.url }}/music_theory/major_triad.mp3) ![Major Triad]({{ site.url }}/music_theory/major_triad.pdf)
+ [Major Triad]({{ site.url }}/music_theory/major_triad.mp3) [Major Triad]({{ site.url }}/music_theory/major_triad.pdf)
 
-[Minor Triad]({{ site.url }}/music_theory/minor_triad.mp3) ![Minor Triad]({{ site.url }}/music_theory/minor_triad.pdf)
+[Minor Triad]({{ site.url }}/music_theory/minor_triad.mp3) [Minor Triad]({{ site.url }}/music_theory/minor_triad.pdf)
 
-[Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.mp3) ![Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.pdf)
+[Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.mp3) [Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.pdf)
 
 
 # Dissonance and Consonance
@@ -89,13 +85,13 @@ Some simple (less than an ocatave) intervals are considered consonant and do not
 consonant intervals, while the second and seventh intervals are considered dissonant. The perfect fourth is considered dissonant in some contexts and consonant in others. The perfect unison, octave, perfect fourth and perfect fifth are perfect consonances,
 in that they are stable intervals that do not need to resolve to a more stable pitch. Thirds and sixths are imperfect consonances and are moderately stable; they again do not need a resolution. Dissonant intervals on the other hand need to be resolved to consonant intervals.  The tritone, also known as an augmented fourth or a diminished fifth, is considered dissonant.
 
-[Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major]({{ site.url }}/music_theory/open_chords.mp3) ![Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major]({{ site.url }}/music_theory/open_chords.pdf) 
+[Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major]({{ site.url }}/music_theory/open_chords.mp3) [Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major]({{ site.url }}/music_theory/open_chords.pdf) 
 
 
 # Motifs
 A motif is a melodic or rhythmic unit that reappears throughout a piece and is shorter than a theme.  The combination of phrases and motifs forms a melody in a piece.  A motif can reappear in its original form or at different pitches or with different intervals throughout a piece.  An example [motif]({{ site.url }}/music_theory/muss_motif.mp3) is the opening two bars of Mussorgsky's Pictures at an Exhibition - Gnomus (Krueger (2016)).
 
-![Mussorgsky's Pictures at an Exhibition - Gnomus]({{ site.url }}/music_theory/muss_motif.pdf)
+[Mussorgsky's Pictures at an Exhibition - Gnomus]({{ site.url }}/music_theory/muss_motif.pdf)
 
 # Romantic Era Music
 Romantic era music is considered tonal music, meaning that the music is oriented around and pulled towards the tonic pitch. The Romantic period of music lasted from the end of the eighteenth century to the beginning of the twentieth century. This period was marked by a
