@@ -18,7 +18,7 @@ There are two types of intervals that occur in music, harmonic intervals where t
 
 ### Ascending Melodic Intervals
 
-[Perfect Unison]({{ site.url }}/music_theory/unison.mp3) [Perfect Unison](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png)
+Perfect Unision: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/unison.mp3) -  [Sheet Music](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png)
 
 [Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) [Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
 
