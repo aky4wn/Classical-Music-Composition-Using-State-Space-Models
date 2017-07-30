@@ -20,65 +20,65 @@ There are two types of intervals that occur in music, harmonic intervals where t
 
 Perfect Unision: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/unison.mp3) -  [Sheet Music](https://aky4wn.github.io/Classical-Music-Composition-Using-Hidden-Markov-Models/music_theory/unison.png)
 
-[Minor Second]({{ site.url }}/music_theory/a_minor2nd.mp3) [Minor Second]({{ site.url }}/music_theory/a_minor2nd.pdf)
+Minor Second: Dissonant [Play Interval]({{ site.url }}/music_theory/a_minor2nd.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_minor2nd.pdf)
 
-[Major Second]({{ site.url }}/music_theory/a_major2nd.mp3) [Major Second]({{ site.url }}/music_theory/a_major2nd.pdf)
+Major Second: Dissonant [Play Interval]({{ site.url }}/music_theory/a_major2nd.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_major2nd.pdf)
 
-[Minor Third]({{ site.url }}/music_theory/a_minor3rd.mp3) [Minor Third]({{ site.url }}/music_theory/a_minor3rd.pdf)
+Minor Third: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/a_minor3rd.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_minor3rd.pdf)
 
-[Major Third]({{ site.url }}/music_theory/a_major3rd.mp3) [Major Third]({{ site.url }}/music_theory/a_major3rd.pdf) 
+Major Third: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/a_major3rd.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_major3rd.pdf) 
 
-[Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.mp3) [Perfect Fourth]({{ site.url }}/music_theory/a_perfect4th.pdf) 
+Perfect Fourth: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/a_perfect4th.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_perfect4th.pdf) 
 
-[Tritone]({{ site.url }}/music_theory/a_tritone.mp3) [Tritone]({{ site.url }}/music_theory/a_tritone.pdf) 
+Tritone: Dissonant [Play Interval]({{ site.url }}/music_theory/a_tritone.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_tritone.pdf) 
 
-[Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.mp3) [Perfect Fifth]({{ site.url }}/music_theory/a_perfect5th.pdf) 
+Perfect Fifth: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/a_perfect5th.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_perfect5th.pdf) 
 
-[Minor Sixth]({{ site.url }}/music_theory/a_minor6th.mp3) [Minor Sixth]({{ site.url }}/music_theory/a_minor6th.pdf) 
+Minor Sixth: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/a_minor6th.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_minor6th.pdf) 
 
-[Major Sixth]({{ site.url }}/music_theory/a_major6th.mp3) [Major Sixth]({{ site.url }}/music_theory/a_major6th.pdf) 
+Major Sixth: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/a_major6th.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_major6th.pdf) 
 
-[Minor Seventh]({{ site.url }}/music_theory/a_minor7th.mp3) [Minor Seventh]({{ site.url }}/music_theory/a_minor7th.pdf) 
+Minor Seventh: Dissonant [Play Interval]({{ site.url }}/music_theory/a_minor7th.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_minor7th.pdf) 
 
-[Major Seventh]({{ site.url }}/music_theory/a_major7th.mp3) [Major Seventh]({{ site.url }}/music_theory/a_major7th.pdf) 
+Major Seventh: Dissonant [Play Interval]({{ site.url }}/music_theory/a_major7th.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_major7th.pdf) 
 
-[Perfect Octave]({{ site.url }}/music_theory/a_octave.mp3) [Perfect Octave]({{ site.url }}/music_theory/a_octave.pdf)
+Perfect Octave: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/a_octave.mp3) - [Sheet Music]({{ site.url }}/music_theory/a_octave.pdf)
 
 
 ### Descending Melodic Intervals
-[Minor Second]({{ site.url }}/music_theory/d_minor2nd.mp3) [Minor Second]({{ site.url }}/music_theory/d_minor2nd.pdf)
+Minor Second: Dissonant [Play Interval]({{ site.url }}/music_theory/d_minor2nd.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_minor2nd.pdf)
 
-[Major Second]({{ site.url }}/music_theory/d_major2nd.mp3) [Major Second]({{ site.url }}/music_theory/d_major2nd.pdf) 
+Major Second: Dissonant [Play Interval]({{ site.url }}/music_theory/d_major2nd.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_major2nd.pdf)
 
-[Minor Third]({{ site.url }}/music_theory/d_minor3rd.mp3) [Minor Third]({{ site.url }}/music_theory/d_minor3rd.pdf)
+Minor Third: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/d_minor3rd.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_minor3rd.pdf)
 
-[Major Third]({{ site.url }}/music_theory/d_major3rd.mp3) [Major Third]({{ site.url }}/music_theory/d_major3rd.pdf) 
+Major Third: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/d_major3rd.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_major3rd.pdf) 
 
-[Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.mp3) [Perfect Fourth]({{ site.url }}/music_theory/d_perfect4th.pdf) 
+Perfect Fourth: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/d_perfect4th.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_perfect4th.pdf) 
 
-[Tritone]({{ site.url }}/music_theory/d_tritone.mp3) [Tritone]({{ site.url }}/music_theory/d_tritone.pdf) 
+Tritone: Dissonant [Play Interval]({{ site.url }}/music_theory/d_tritone.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_tritone.pdf) 
 
-[Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.mp3) [Perfect Fifth]({{ site.url }}/music_theory/d_perfect5th.pdf)
+Perfect Fifth: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/d_perfect5th.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_perfect5th.pdf) 
 
-[Minor Sixth]({{ site.url }}/music_theory/d_minor6th.mp3) [Minor Sixth]({{ site.url }}/music_theory/d_minor6th.pdf)
+Minor Sixth: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/d_minor6th.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_minor6th.pdf) 
 
-[Major Sixth]({{ site.url }}/music_theory/d_major6th.mp3) [Major Sixth]({{ site.url }}/music_theory/d_major6th.pdf) 
+Major Sixth: Imperfect Consonance [Play Interval]({{ site.url }}/music_theory/d_major6th.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_major6th.pdf) 
 
-[Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3) [Minor Seventh]({{ site.url }}/music_theory/d_minor7th.mp3)
+Minor Seventh: Dissonant [Play Interval]({{ site.url }}/music_theory/d_minor7th.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_minor7th.pdf) 
 
-[Major Seventh]({{ site.url }}/music_theory/d_major7th.mp3) [Major Seventh]({{ site.url }}/music_theory/d_major7th.pdf) 
+Major Seventh: Dissonant [Play Interval]({{ site.url }}/music_theory/d_major7th.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_major7th.pdf) 
 
-[Perfect Octave]({{ site.url }}/music_theory/d_octave.mp3) [Perfect Octave]({{ site.url }}/music_theory/d_octave.pdf)
+Perfect Octave: Perfect Consonance [Play Interval]({{ site.url }}/music_theory/d_octave.mp3) - [Sheet Music]({{ site.url }}/music_theory/d_octave.pdf)
 
 
 # Chords
 A chord is a combination of three or more different pitches, and the predominant chords occurring in the Romantic era were the triad and the seventh chord. The triad is composed of a root pitch and the third and fifth above the root, while a seventh chord is the root, third, fifth and seventh. Chords can be closed or open depending on the spacing between pitches in the higher and lower registers.
 
- [Major Triad]({{ site.url }}/music_theory/major_triad.mp3) [Major Triad]({{ site.url }}/music_theory/major_triad.pdf)
+ Major Triad: [Play Chord]({{ site.url }}/music_theory/major_triad.mp3) - [Sheet Music]({{ site.url }}/music_theory/major_triad.pdf)
 
-[Minor Triad]({{ site.url }}/music_theory/minor_triad.mp3) [Minor Triad]({{ site.url }}/music_theory/minor_triad.pdf)
+Minor Triad: [Play Chord]({{ site.url }}/music_theory/minor_triad.mp3) - [Sheet Music]({{ site.url }}/music_theory/minor_triad.pdf)
 
-[Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.mp3) [Major Seventh Chord]({{ site.url }}/music_theory/major_7th_chords.pdf)
+Major Seventh Chord: [Play Chord]({{ site.url }}/music_theory/major_7th_chords.mp3) - [Sheet Music]({{ site.url }}/music_theory/major_7th_chords.pdf)
 
 
 # Dissonance and Consonance
@@ -86,7 +86,7 @@ Some simple (less than an ocatave) intervals are considered consonant and do not
 consonant intervals, while the second and seventh intervals are considered dissonant. The perfect fourth is considered dissonant in some contexts and consonant in others. The perfect unison, octave, perfect fourth and perfect fifth are perfect consonances,
 in that they are stable intervals that do not need to resolve to a more stable pitch. Thirds and sixths are imperfect consonances and are moderately stable; they again do not need a resolution. Dissonant intervals on the other hand need to be resolved to consonant intervals.  The tritone, also known as an augmented fourth or a diminished fifth, is considered dissonant.
 
-[Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major]({{ site.url }}/music_theory/open_chords.mp3) [Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major]({{ site.url }}/music_theory/open_chords.pdf) 
+Perfect fourth, perfect fifth and perfect octave harmonic intervals in C-Major: [Play Intervals]({{ site.url }}/music_theory/open_chords.mp3) - [Sheet Music]({{ site.url }}/music_theory/open_chords.pdf) 
 
 
 # Motifs
