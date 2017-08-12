@@ -1,17 +1,17 @@
 - title: "About"
-  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/about/"
+  href: "/Classical-Music-Composition-Using-State-Space-Models/about/"
   
 - title: "Music Theory"
-  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/theory/"  
+  href: "/Classical-Music-Composition-Using-State-Space-Models/theory/"  
   
 - title: "Generated Pieces"
-  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/pieces/"
+  href: "/Classical-Music-Composition-Using-State-Space-Models/pieces/"
 
 - title: "Sheet Music"
-  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/music/"
+  href: "/Classical-Music-Composition-Using-State-Space-Models/music/"
   
 - title: "Code"
-  href: "/Classical-Music-Composition-Using-Hidden-Markov-Models/code/"
+  href: "/Classical-Music-Composition-Using-State-Space-Models/code/"
 
 #- title: "CV"
 #  href: "/cv/"
