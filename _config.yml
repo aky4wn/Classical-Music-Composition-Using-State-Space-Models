@@ -1,5 +1,5 @@
 # Site settings
-title: Classical Music Composition Using Hidden Markov Models
+title: Classical Music Composition Using State Space Models
 email: anna.yanchenko@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
   Supplementary materials and accompanying site for "Classical Music Composition Using Hidden Markov Models".
