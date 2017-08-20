@@ -6,45 +6,21 @@ permalink: /supplementary/
 Supplementary materials for the paper "Classical Music Composition Using State Space Models".
 
 ## General Trends of Composed Pieces
+[Plot]({{ site.url }}/supp/muss_RMSE_supp.pdf) of the RMSE for various metrics for all 14 original models when trained on Pictures at an Exhibition, Promenade - Gnomus.
 
+[Plot]({{ site.url }}/supp/muss_info.pdf) of the average mutual information and average minimum edit distance for all 14 original models when trained on Pictures at an Exhibition, Promenade - Gnomus.
 
+[Table]({{ site.url }}/supp/muss_RMSE_table.pdf) of the RMSE for various metrics for all 14 original models ordered from best to worst when trained on Pictures at an Exhibition, Promenade - Gnomus.
 
 
 ## Validation of Trends
+In addition to ranking each piece from favorite to least favorite for the second round of evaluations, each listener was asked to quantitatively score each piece on a scale of 1 to 5 according to:
+- how much the generated piece sounded like it was composed by a human, 1 = piece sounded completely random, 5 = piece sounded just like a human composition;
+- how harmonically pleasing each piece was, 1 = not at all harmonically pleasing, 5 = very harmonically pleasing;
+- how melodically pleasing each piece was, 1 = not at all melodically pleasing, 5 = very melodically pleasing.
+The average rankings for each evaluated piece are [here]({{ site.url }}/supp/rankings_table.pdf)
 
-
+The [percentage]({{ site.url }}/supp/simple_harmonic.pdf) of simple harmonic intervals that are thirds, perfect fourths or fifths and dissonant for the second round of evaluated pieces.
 
 ## TSHMM Baum-Welch Algorithm
-
-[Chopin's Marche funebre - Layered HMM]({{ site.url }}/Generated Pieces/chopin3_layered.mp3)
-
-[Mendelssohn's Hark! The Herald Angels Sing - Layered HMM]({{ site.url }}/Generated Pieces/Hark_Layered.mp3)
-
-[Beethoven's Ode to Joy - First Order HMM]({{ site.url }}/Generated Pieces/ode_to_joy_first.mp3)
-
-[Beethoven's Ode to Joy - Layered HMM]({{ site.url }}/Generated Pieces/ode-to-joy_layered.mp3)
-
-[We Three Kings - Layered HMM]({{ site.url }}/Generated Pieces/we-three-kings_layered.mp3)
-
-[Pachelbel's Canon - TVAR(11)]({{ site.url }}/Generated Pieces/pachelbel_TVAR11.mp3)
-
-Mussorgsky's Pictures at an Exhibition - Gnomus Exerpts
-
-[Mussorgsky - Factorial HMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussFactorial.mp3)
-
-[Mussorgsky - First Order HMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussFirstOrder.mp3)
-
-[Mussorgsky - Layered HMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussLayered.mp3)
-
-[Mussorgsky - NSHMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussNSHMM.mp3)
-
-[Mussorgsky - Two Hidden States HMM (5-10)]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussTwo5-10.mp3)
-
-[Mussorgsky - Random Parameter HMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussRandom.mp3)
-
-Other Generated Pieces - We find that HMMs generated more consonant pieces when trained on harmonically simple original pieces, built on perfect intervals, such as the perfect fourth or perfect fifth intervals. Below are two additional examples of HMM generated pieces trained on original pieces built on perfect intervals.
-
-[Pachelbel's Canon - Layered HMM]({{ site.url }}/Generated Pieces/pachelbel_layered.mp3)
-
-[Holst's Theme from Jupiter - Layered HMM]({{ site.url }}/Generated Pieces/Jupiter_layered.mp3)
-
+The [Baum-Welch Algorithm]({{ site.url }}/supp/appendix.pdf) for the two hidden state HMM.
