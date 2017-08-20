@@ -12,9 +12,9 @@ LRHMM with 25 hidden states, model M5 was a 2-LRHMM with 25 hidden
 states, model M6 was a 3-LRHMM with 10 hidden states, model M7 was
 a ARHMM with 25 hidden states, model M8 was a HSMM with 25 hidden
 states, model M9 was a NSHMM with 25 hidden states, M10 was a TSHMM
-with 10 hidden states in the rst layer and 5 in the second layer, M11 was a
-TSHMM with 5 hidden states in the rst layer and 10 in the second layer,
-model M12 was a FHMM with three independent HMMS each with 15,
+with 10 hidden states in the first layer and 5 in the second layer, M11 was a
+TSHMM with 5 hidden states in the first layer and 10 in the second layer,
+model M12 was a FHMM with three independent HMMs each with 15,
 10 and 5 hidden states respectively, model M13 was a LHMM with three
 layers and 25 hidden states in each layer, model M14 was a TVAR with
 order between 7 and 14 and model M15 was a baseline model specied by a
