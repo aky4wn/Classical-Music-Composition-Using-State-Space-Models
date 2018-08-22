@@ -1,20 +1,9 @@
-hmm_compose.py is the main script used to train the various HMMs and generate new pieces.  
+Musical pieces are first converted from MIDI to CSV using: http://www.fourmilab.ch/webtools/midicsv/.  The generated CSVs are in the folder `OriginalCSV`.  
 
-The code for model implementation is in BaumWelch.pyx, BaumWelchLR.pyx (both in Cython and need to be compiled before use) and TVAR.py.
+The notebook `JASA_Results.ipynb` contains all relevant code.  It can be run from top to bottom as is to reproduce the results presented in the paper.  The files `BaumWelch.pyx` and `BaumWelchLR.pyx` contain functions for inference, written in Cython.
 
-Usage: hmm_compose(input_filename, output_filename, line_skip, model, m,  tol, num_it = 1000, m2 = None)
+The only inputs needed to analyze different pieces are the path and filename of the new piece and the length of the shortest note in the new piece (in MIDI clicks).  This information can be found in the header of the generated CSV; see http://www.fourmilab.ch/webtools/midicsv/.
 
-Input and Output files should be CSV (MIDI files converged to CSV via MIDI-CSV, http://www.fourmilab.ch/webtools/midicsv/)
-
-Line_skip is line number for first occuring note, number of header lines to skip 
-
-m = number of hidden states 
-
-tol = tolerance for convergence of EM Algorithm
-
-num_it = number of new pieces to generate (5 generated pieces saved as CSV)
-
-m2 = number of second level of hidden states for Two Hidden State HMM
+Generated CSVs are in `NewCSV` and can be converted back to MIDI using the same software as above.  Other software is needed to convert these generated pieces to MP3 or other audio format.  Metrics calculations on generated pieces are saved in the `metrics` folder.
 
 
-Example: hmm_compose('OriginalCSV/pachelbel.csv', 'NewCSV/pachelbel.csv', 27, model, m, tol, num_it, m2)
