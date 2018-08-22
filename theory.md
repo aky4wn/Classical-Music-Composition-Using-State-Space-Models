@@ -82,7 +82,7 @@ Major Seventh Chord: [Play Chord]({{ site.url }}/music_theory/major_7th_chords.m
 
 
 # Dissonance and Consonance
-Some simple (less than an ocatave) intervals are considered consonant and do not need to be resolved, while other intervals are dissonant and require a resolution.  The octave, perfect unison and the third, fifth and sixth intervals are
+Some simple (less than an octave) intervals are considered consonant and do not need to be resolved, while other intervals are dissonant and require a resolution.  The octave, perfect unison and the third, fifth and sixth intervals are
 consonant intervals, while the second and seventh intervals are considered dissonant. The perfect fourth is considered dissonant in some contexts and consonant in others. The perfect unison, octave, perfect fourth and perfect fifth are perfect consonances,
 in that they are stable intervals that do not need to resolve to a more stable pitch. Thirds and sixths are imperfect consonances and are moderately stable; they again do not need a resolution. Dissonant intervals on the other hand need to be resolved to consonant intervals.  The tritone, also known as an augmented fourth or a diminished fifth, is considered dissonant.
 
