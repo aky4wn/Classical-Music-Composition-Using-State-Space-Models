@@ -9,3 +9,10 @@ MP3s for all pieces discussed in the paper.
 
 ### Sheet Music
 Accompanying sheet music for the generated pieces.
+
+### References
+- MIDICSV code: http://www.fourmilab.ch/webtools/midicsv/
+- Original Training Pieces:
+  - https://www.mfiles.co.uk/classical-midi.htm
+  - http://www.midiworld.com/classic.htm/beethoven.htm
+  - http://www.piano-midi.de/midi_files.htm
