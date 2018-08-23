@@ -30,4 +30,12 @@ The only inputs needed to analyze different pieces are the path and filename of 
 
 Generated CSVs are in `NewCSV` and can be converted back to MIDI using the same software as above.  Other software is needed to convert these generated pieces to MP3 or other audio format.  Metrics calculations on generated pieces are saved in the `metrics` folder.
 
+### References
+- MIDICSV code: http://www.fourmilab.ch/webtools/midicsv/
+- Original Training Pieces:
+  - https://www.mfiles.co.uk/classical-midi.htm
+  - http://www.midiworld.com/classic.htm/beethoven.htm
+  - http://www.piano-midi.de/midi_files.htm
+
+
 
