@@ -29,11 +29,12 @@ MP3s for several HMM generated pieces. Each name is the original piece the model
 
 [Twinkle, Twinkle - Layered]({{ site.url }}/Generated Pieces/Twinkle-layered5.mp3)
 
-[Bach - Well Tempered Clavier]({{ site.url }}/Generated Pieces/bach-book2-fugue02-first_order5.mp3)
+[Twinkle, Twinkle - TVAR(7)]({{ site.url }}/Generated Pieces/Twinkle-TVAR7.mp3)
+
 
 ## Case Study Validation - Bach
 
-[Twinkle, Twinkle - First Order]({{ site.url }}/Generated Pieces/Twinkle-first_order5.mp3)
+[Bach - Well Tempered Clavier]({{ site.url }}/Generated Pieces/bach-book2-fugue02-first_order5.mp3)
 
 ## Mussorgsky's Pictures at an Exhibition - Gnomus Exerpts
 
