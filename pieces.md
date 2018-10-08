@@ -5,6 +5,8 @@ permalink: /pieces/
 ---
 MP3s for several HMM generated pieces. Each name is the original piece the model was trained on and the specifc model used.
 
+## Evaluated Pieces
+
 [Chopin's Marche funebre - Layered HMM]({{ site.url }}/Generated Pieces/chopin3_layered.mp3)
 
 [Mendelssohn's Hark! The Herald Angels Sing - Layered HMM]({{ site.url }}/Generated Pieces/Hark_Layered.mp3)
@@ -17,7 +19,23 @@ MP3s for several HMM generated pieces. Each name is the original piece the model
 
 [Pachelbel's Canon - TVAR(11)]({{ site.url }}/Generated Pieces/pachelbel_TVAR11.mp3)
 
-Mussorgsky's Pictures at an Exhibition - Gnomus Exerpts
+## Case Study - Twinkle, Twinkle, Little Star
+
+[Twinkle, Twinkle - First Order]({{ site.url }}/Generated Pieces/Twinkle-first_order5.mp3)
+
+[Twinkle, Twinkle - Factorial]({{ site.url }}/Generated Pieces/Twinkle-factorial5.mp3)
+
+[Twinkle, Twinkle - TSHMM]({{ site.url }}/Generated Pieces/Twinkle-TSHMM2-5.mp3)
+
+[Twinkle, Twinkle - Layered]({{ site.url }}/Generated Pieces/Twinkle-layered5.mp3)
+
+[Bach - Well Tempered Clavier]({{ site.url }}/Generated Pieces/bach-book2-fugue02-first_order5.mp3)
+
+## Case Study Validation - Bach
+
+[Twinkle, Twinkle - First Order]({{ site.url }}/Generated Pieces/Twinkle-first_order5.mp3)
+
+## Mussorgsky's Pictures at an Exhibition - Gnomus Exerpts
 
 [Mussorgsky - Factorial HMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussFactorial.mp3)
 
@@ -31,7 +49,9 @@ Mussorgsky's Pictures at an Exhibition - Gnomus Exerpts
 
 [Mussorgsky - Random Parameter HMM]({{ site.url }}/Generated Pieces/Mussorgsky Example/MussRandom.mp3)
 
-Other Generated Pieces - We find that HMMs generated more consonant pieces when trained on harmonically simple original pieces, built on perfect intervals, such as the perfect fourth or perfect fifth intervals. Below are two additional examples of HMM generated pieces trained on original pieces built on perfect intervals.
+## Other Generated Pieces 
+
+We find that HMMs generated more consonant pieces when trained on harmonically simple original pieces, built on perfect intervals, such as the perfect fourth or perfect fifth intervals. Below are two additional examples of HMM generated pieces trained on original pieces built on perfect intervals.
 
 [Pachelbel's Canon - Layered HMM]({{ site.url }}/Generated Pieces/pachelbel_layered.mp3)
 
